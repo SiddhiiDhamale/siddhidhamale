@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/siddhidhamale/static/css/main.454c4afd.css",
-    "main.js": "/siddhidhamale/static/js/main.190f0c33.js",
+    "main.js": "/siddhidhamale/static/js/main.11048d01.js",
     "static/js/787.5430abe7.chunk.js": "/siddhidhamale/static/js/787.5430abe7.chunk.js",
     "static/media/React-icon.png": "/siddhidhamale/static/media/React-icon.73dbb5bcec516da82694.png",
+    "static/media/SiddhiDhamale.pdf": "/siddhidhamale/static/media/SiddhiDhamale.76ff6c707cd94f243b43.pdf",
     "static/media/center.png": "/siddhidhamale/static/media/center.c16d4638d212e98d52f0.png",
-    "static/media/SiddhiDhamale.pdf": "/siddhidhamale/static/media/SiddhiDhamale.2f8433343f1a6da165b4.pdf",
     "static/media/sci-fi.png": "/siddhidhamale/static/media/sci-fi.1e9da2b15a80e446a1f5.png",
     "static/media/app.jpeg": "/siddhidhamale/static/media/app.3815d7affaf4af3b7b46.jpeg",
     "static/media/Ellipse1.png": "/siddhidhamale/static/media/Ellipse1.6e70adb7ecdf1a548f03.png",
@@ -17,11 +17,11 @@
     "static/media/th.jpeg": "/siddhidhamale/static/media/th.27b754e70aa444570707.jpeg",
     "index.html": "/siddhidhamale/index.html",
     "main.454c4afd.css.map": "/siddhidhamale/static/css/main.454c4afd.css.map",
-    "main.190f0c33.js.map": "/siddhidhamale/static/js/main.190f0c33.js.map",
+    "main.11048d01.js.map": "/siddhidhamale/static/js/main.11048d01.js.map",
     "787.5430abe7.chunk.js.map": "/siddhidhamale/static/js/787.5430abe7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.454c4afd.css",
-    "static/js/main.190f0c33.js"
+    "static/js/main.11048d01.js"
   ]
 }
