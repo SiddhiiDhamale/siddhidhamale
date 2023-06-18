@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/siddhii/static/css/main.454c4afd.css",
+    "main.js": "/siddhii/static/js/main.c24ef18f.js",
+    "static/js/787.5430abe7.chunk.js": "/siddhii/static/js/787.5430abe7.chunk.js",
+    "static/media/React-icon.png": "/siddhii/static/media/React-icon.73dbb5bcec516da82694.png",
+    "static/media/center.png": "/siddhii/static/media/center.c16d4638d212e98d52f0.png",
+    "static/media/SiddhiDhamale.pdf": "/siddhii/static/media/SiddhiDhamale.2f8433343f1a6da165b4.pdf",
+    "static/media/sci-fi.png": "/siddhii/static/media/sci-fi.1e9da2b15a80e446a1f5.png",
+    "static/media/app.jpeg": "/siddhii/static/media/app.3815d7affaf4af3b7b46.jpeg",
+    "static/media/Ellipse1.png": "/siddhii/static/media/Ellipse1.6e70adb7ecdf1a548f03.png",
+    "static/media/amazon_s.png": "/siddhii/static/media/amazon_s.fc0bcad0a75b37556eb5.png",
+    "static/media/flutter_img.png": "/siddhii/static/media/flutter_img.d522d8ca531e77debd54.png",
+    "static/media/Ellipse2.png": "/siddhii/static/media/Ellipse2.c1e930c029660d68d0b0.png",
+    "static/media/programmer.png": "/siddhii/static/media/programmer.8169146bc3472bf1e203.png",
+    "static/media/postman.jpeg": "/siddhii/static/media/postman.e3b02980280f6887bb82.jpeg",
+    "static/media/th.jpeg": "/siddhii/static/media/th.27b754e70aa444570707.jpeg",
+    "index.html": "/siddhii/index.html",
+    "main.454c4afd.css.map": "/siddhii/static/css/main.454c4afd.css.map",
+    "main.c24ef18f.js.map": "/siddhii/static/js/main.c24ef18f.js.map",
+    "787.5430abe7.chunk.js.map": "/siddhii/static/js/787.5430abe7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.454c4afd.css",
+    "static/js/main.c24ef18f.js"
+  ]
+}

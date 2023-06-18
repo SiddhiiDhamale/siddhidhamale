@@ -1,0 +1,632 @@
+body{
+  margin-left: -5px;
+  padding: 0;
+  overflow-x: hidden;
+  /* max-width: 300px; */
+  background: #fff;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-size: 18px;
+  line-height: 1.5em;
+  color: rgba(0,0,0,.87);
+}
+.Home_intro {
+  padding-top: 8%;
+  margin-left: 10%;
+  font-size: 28px;
+  /* font-style: 'Sigmar', cursive; */
+  
+  /* font-family: 'Sigmar', cursive; */
+  font-family: 'Inconsolata', monospace;
+  
+}
+
+
+.resume{
+  /* width: 15%;
+  height:30%;
+  background-color: yellow;
+  margin-left: 10%;
+  border-radius:12px;
+  border-style: none; */
+
+position: absolute;
+width: 208px;
+height: 64px;
+margin-left: 10%;
+background: #292828;
+border-radius: 32px;
+transform: rotate(-0.99deg);
+font-style: oblique;
+color: white;
+font-weight: bold;
+font-size: 22px;
+}
+/* .resumeLink{
+  border
+} */
+
+.Home_imgs{
+  align-content: left;
+  /* margin-left: 40%;
+  margin-top: -20%; */
+
+}
+.yellowCircle_container
+ {
+  width:100%;
+  
+ }
+
+  
+.yellowCircle
+{
+
+width: 38%;
+height:70%;
+margin-left: 67%;
+margin-top: -36%;
+position: absolute;
+
+}
+
+.whitecircle{
+  width: 22%;
+ /* height:30%; */
+ margin-left: 70%;
+margin-top: -18%;
+box-sizing: border-box;
+
+position: absolute;
+transform:rotate(40deg);
+border: none;
+/* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+
+}
+
+.center{
+  width: 14%;
+    /* height: 29%; */
+    position: absolute;
+    margin-left: 72%;
+    margin-top: -15%;
+}
+
+.java
+{
+
+  width: 10%;
+    height: 10%;
+  margin-left: 85%;
+    margin-top: -11%;
+    
+    position: absolute;
+    transform: rotate(112deg);
+
+}
+
+.programmer {
+   width: 8%;
+    height: 10%;
+    margin-left: 64%;
+    margin-top: -13%;
+    position: absolute;
+    
+
+
+}
+
+.html{
+ width: 12%;
+    height: 20%;
+    margin-left: 70%;
+    margin-top: -22%;
+    position: absolute;
+    transform: rotate(-78deg);
+}
+
+.scifi{
+  width: 8%;
+    height: 12%;
+    margin-left: 80%;
+    margin-top: -2%;
+    position: absolute;
+    /* transform: rotate(-1eg); */
+    transform: rotate(-4deg);
+}
+
+.git{
+    width: 5%;
+    height: 10%;
+    margin-left: 84%;
+    border-radius: 55px;
+    margin-top: -20%;
+    position: absolute;
+    transform: rotate(35deg);
+    background-color: #f5e233;
+ }
+
+/* @keyframes FadeInOut {
+  0% {opacity:1;}
+  25% {opacity:.75;}
+  50% {opacity:.5;}
+  100% {opacity:0;}
+} */
+
+.flutter{
+
+  width: 6%;
+  height: 14%;
+  margin-left: 70%;
+  margin-top: -22%;
+  position: absolute;
+  transform: rotate(6deg);
+  /* animation-name: FadeInOut;
+  -webkit-animation-name: FadeInOut; */
+  
+
+  
+}
+.postman{
+  width: 6%;
+    height: 12%;
+    margin-left: 82%;
+    margin-top: -1%;
+    position: absolute;
+
+
+}
+.aws
+{
+  width: 8%;
+  height: 14%;
+  margin-left: 64%;
+  margin-top: -14%;
+  position: absolute
+}
+.webdev{
+  width: 10%;
+    height: 16%;
+    margin-left: 80%;
+    margin-top: -22%;
+    position: absolute;
+    transform: rotate(36deg);
+    background-blend-mode:lighten;
+    border-radius: 400px;
+    /* background-color: gold; */
+  
+   
+    /* transform: rotate(-4deg); */
+
+}
+.react{
+  width: 6%;
+    height: 12%;
+    margin-left: 87%;
+    margin-top: -10%;
+    transform: rotate(90deg);
+    position: absolute;
+  }
+
+.arrow{
+  width: 4%;
+  height: 6%;
+  margin-left: 68%;
+  margin-top: 2%;
+  position: absolute;
+  transform: rotate(180deg);
+}
+
+
+.hw{
+  /* width: 3%;
+  height: 3%; */
+  font-size: 8px;
+  margin-left: 68%;
+  margin-top: 1%;
+  position: absolute;
+}
+
+
+
+.Title{
+  padding-top: 10%;
+  padding-bottom: 2%;
+  margin-left: 46%;
+  font-size: 30px;
+}
+
+.Projects_cardView{
+margin-left: 100px;
+}
+
+.Contact_logo
+{
+  margin-left:34%;
+  
+}
+
+.Contact_logo1
+{
+  width: 150px;
+  height:70px;
+}
+
+
+/* @media only screen and(min-width: 800px) {
+  .Home_intro {
+    padding-top: 10%;
+    margin-top: 200px;
+    margin-left: 8%;
+    font-size: 24px;
+  }
+  
+  .Title{
+    padding-top: 10%;
+    padding-bottom: 2%;
+    margin-left: 50%;
+    font-size: 30px;
+  }
+  
+  .Projects_cardView{
+  margin-left: 100px;
+  }
+  
+  .Contact_logo
+  {
+    margin-left:38%;
+    
+  }
+  
+  .Contact_logo1
+  {
+    width: 150px;
+    height:70px;
+  }
+  
+  }
+  
+@media only screen and(max-width: 500px) {
+  .Home_intro {
+    padding-top: 10%;
+    margin-top: 10%;
+    margin-left: 8%;
+    font-size: 12px;
+  }
+  
+  .Title{
+    padding-top: 4%;
+    padding-bottom: 2%;
+    margin-left: 50%;
+    font-size: 12px;
+  }
+  
+  .Projects_cardView{
+  margin-left: 50px;
+  }
+  
+  .Contact_logo
+  {
+    margin-left:38%;
+    
+  }
+  
+}
+ */
+
+
+
+
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+
+@media screen and (max-width:767px)
+{
+
+  .ui.cards {
+    display: flex;
+    margin: 0.125em -2.5em;
+    width: 290px;
+}
+
+  .body{
+    margin-left: -2px;
+    padding: 0;
+    overflow-x: hidden;
+    max-width: 300px;
+    background: #fff;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    font-size: 8px;
+    line-height: 1.4285em;
+    color: rgba(0,0,0,.87);
+  }
+
+
+  .Home_intro {
+    padding-top: 8%;
+    margin-left: 6%;
+    font-size: 12px;
+    font-family: 'Mukta';
+   }
+
+
+
+.resume{
+  position: absolute;
+    width: 60px;
+    height: 20px;
+    margin-left: 5%;
+    background: #292828;
+    border-radius: 14px;
+    transform: rotate(-0.99deg);
+    font-style: oblique;
+    color: white;
+    font-weight: bold;
+    font-size: 6px;
+
+  }
+/* .resumeLink{
+  border
+} */
+
+.Home_imgs{
+  align-content:center;
+  position: inherit;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  /* margin-left: 40%;
+  margin-top: -20%; */
+
+ } 
+
+
+
+ .yellowCircle_container 
+
+ {
+  /* width:100%; */
+
+overflow: hidden;
+ }
+
+.yellowCircle
+{
+
+  /* width: 54%;
+  height: 185px;
+  margin-left: 64%;
+  margin-top: -46%;
+  position: fixed;
+  clip: rect(0,116px,181px,0); */
+
+  margin-left: 63%;
+    margin-top: -52%;
+    position: fixed;
+    /* clip: rect(94px, 116px, 181px, 0); */
+    height: 220px;
+    position: inherit;
+    /* bottom: 773px; */
+    /* left: 45px; */
+    /* z-index: -1; */
+    /* clip: rect(80px, 112px, 185px, 0); */
+    overflow: hidden;
+}
+
+.whitecircle{
+max-width: 22%;
+ /* height:30%; */
+ margin-left: 70%;
+margin-top: -18%;
+box-sizing: border-box;
+
+position: absolute;
+transform:rotate(40deg);
+border: none;
+/* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+
+}
+
+.center{
+  max-width: 14%;
+    /* height: 29%; */
+    position: absolute;
+    margin-left: 72%;
+    margin-top: -15%;
+}
+
+.java
+{
+  max-width: 6%;
+    height: 2%;
+    margin-left: 87%;
+    margin-top: -9%;
+    position: absolute;
+    transform: rotate(119deg);
+}
+
+.programmer {
+  width: 6%;
+    height: 3%;
+    margin-left: 82%;
+    margin-top: -1%;
+    position: absolute;
+    transform: rotate(-4deg);
+
+
+}
+
+.html{
+  width: 5%;
+  height: 4%;
+  margin-left: 72%;
+  margin-top: -21%;
+  position: absolute;
+  transform: rotate(-102deg);
+
+}
+
+.scifi{
+  width: 6%;
+  height: 3%;
+  margin-left: 66%;
+  margin-top: -13%;
+  position: absolute;
+}
+
+.git{
+  width: 6%;
+  height: 2%;
+  margin-left: 84%;
+  margin-top: -19%;
+  position: absolute;
+  transform: rotate(33deg);
+}
+
+.flutter{
+
+  width: 4%;
+  height:6%;
+  margin-left: 69%;
+  margin-top: -21%;
+  position: absolute;
+  transform: rotate(-30deg);
+  
+
+  
+}
+.postman{
+  width: 2%;
+    height: 4%;
+    margin-left: 82%;
+    margin-top: -1%;
+    position: absolute;
+
+
+}
+.aws
+{
+  width: 6%;
+  height: 3%;
+  margin-left: 66%;
+  margin-top: -11%;
+  position: absolute
+}
+.webdev{
+  width: 6%;
+    height: 8%;
+    margin-left: 82%;
+    margin-top: -20%;
+    position: absolute;
+    transform: rotate(36deg);
+  
+   
+    /* transform: rotate(-4deg); */
+
+}
+.react{
+  width: 5%;
+    height: 8%;
+    margin-left: 88%;
+    margin-top: -9%;
+    transform: rotate(90deg);
+    position: absolute;
+  }
+
+.arrow{
+  width: 4%;
+  height: 2%;
+  margin-left: 67%;
+  margin-top: 6%;
+  position: absolute;
+  transform: rotate(180deg);
+}
+
+
+.hw{
+  /* width: 3%;
+  height: 3%; */
+  font-size: 8px;
+  margin-left: 68%;
+  margin-top: 1%;
+  position: absolute;
+}
+
+
+.Title{
+  padding-top: 22%;
+    padding-bottom: 8%;
+    margin-left: 45%;
+    font-size: 15px;
+
+  /* padding-top: 18%;
+  padding-bottom: 2%;
+  margin-left: 50%;
+  font-size: 12px; */
+}
+
+.Projects{
+width:auto;
+margin-left: -7%;
+}
+
+
+.Projects_cardView{
+  height:50%;
+/* margin-left: 100px; */
+}
+
+.cTitle {
+  padding-top: 22%;
+  padding-bottom: 8%;
+  margin-left: 42%;
+  font-size: 15px;
+}
+
+.Contact_logo
+{
+  margin-left:26%;
+  
+}
+
+.Contact_logo1
+{
+  width: 60px;
+  height:30px;
+}
+
+
+  }
+
